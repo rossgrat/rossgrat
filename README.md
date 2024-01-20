@@ -1,4 +1,5 @@
-### Hi there 👋
+My name Ross and I am a Software and Embedded Systems Engineer based in Michigan.
+
 
 <!--
 **rossgrat/rossgrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
