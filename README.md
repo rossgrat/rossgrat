@@ -1,4 +1,4 @@
-My name Ross and I am a Software and Embedded Systems Engineer based in Michigan.
+My name is Ross and I am a Software and Embedded Systems Engineer based in West Michigan.
 
 
 <!--
