@@ -1,8 +1,8 @@
-My name is Ross and I am a Software and Embedded Systems Engineer based in West Michigan.
+Hello! My name is Ross and I am a Software and Embedded Systems Engineer based in Chicago.
 
-I am currently employed at a [small startup](https://reflexion.co) where I wear many hats and have worked on everything from Embedded Linux programs interfacing with custom hardware to a monolithic Golang web server running a VR app and Typescript web client.
+I am currently working on backends at [Fetch](https://fetch.com/). Previously I was employed at a [small startup](https://reflexion.co) where I cut my teeth on backend development, web-based frontend devlopment, and embedded systems design.
 
-I graduated from the University of Michigan in 2022 with dual degrees in Computer Science and Electrical Engineering.
+I received dual undergraduate degrees from the University of Michigan at Ann Arbor in 2022 in Computer Science and Electrical Engineering.
 
 
 <!--
