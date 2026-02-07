@@ -2,7 +2,7 @@ Hello! My name is Ross and I am a Software and Embedded Systems Engineer based i
 
 I am currently working on backends at [Fetch](https://fetch.com/). Previously I was employed at a [small startup](https://reflexion.co) where I cut my teeth on backend development, web-based frontend devlopment, and embedded systems design.
 
-I received dual undergraduate degrees from the University of Michigan at Ann Arbor in 2022 in Computer Science and Electrical Engineering.
+I received dual undergraduate degrees from the University of Michigan at Ann Arbor in 2022 in Computer Science and Electrical Engineering, with a focus in Embedded Systems.
 
 *Any views expressed in any respository of mine are my own and do not represent those of my employer.*
 
