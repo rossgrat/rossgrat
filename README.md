@@ -4,7 +4,7 @@ I am currently working on backends at [Fetch](https://fetch.com/). Previously I 
 
 I received dual undergraduate degrees from the University of Michigan at Ann Arbor in 2022 in Computer Science and Electrical Engineering, with a focus in Embedded Systems.
 
-*Any views expressed in any respository of mine are my own and do not represent those of my employer.*
+*Any views expressed are my own and do not represent those of my employer.*
 
 
 <!--
